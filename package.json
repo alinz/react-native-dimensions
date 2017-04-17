@@ -1,6 +1,6 @@
 {
   "name": "react-native-dimensions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "normalized dimensions in react-native",
   "main": "index.js",
   "scripts": {
