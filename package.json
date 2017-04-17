@@ -1,0 +1,29 @@
+{
+  "name": "react-native-dimensions",
+  "version": "0.0.0",
+  "description": "normalized dimensions in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinz/react-native-dimensions.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "normalized",
+    "dimensions"
+  ],
+  "author": {
+    "name": "Ali Najafizadeh",
+    "email": "a.najafizadeh@gmail.com",
+    "url": "https://github.com/alinz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alinz/react-native-dimensions/issues"
+  },
+  "homepage": "https://github.com/alinz/react-native-dimensions"
+}
